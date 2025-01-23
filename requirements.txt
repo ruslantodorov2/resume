@@ -2,3 +2,9 @@ streamlit
 pandas
 plotly
 graphviz
+matplotlib
+pandas
+scipy
+numba-dpex
+numpy
+pandarallel
